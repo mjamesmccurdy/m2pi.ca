@@ -1,19 +1,19 @@
 ---
 # Display name
-title: Your Name Goes Here
+title: James McCurdy
 
 # Username (this should match your github username)
 authors:
-- YourGitHubUsername
+- mjamesmccurdu
 
 # Role/position e.g. Graduate student
-role: Postdoctoral Fellow
+role: PhD Candidate
 
 # Organization membership
 Organizations/Affiliations:
 organizations:
-- name: Your Current University
-  url: https://www.google.ca
+- name: The University of Calgary
+  url: https://ucalgary.ca/
 
 # A list of your interests, add as many as you want
 interests:
@@ -94,7 +94,7 @@ social:
 
 user_groups:
 - committee: members
-  role: Project 1 member
+  role: Project 2 member
 
 tags:
 - '2021'
